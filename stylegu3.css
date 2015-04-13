@@ -20,7 +20,7 @@ margin: 20px;
 }
 
 #one{
-	color:#ff11ff;
+	color:#E8E9DB;
 }
 
 .row{
@@ -36,7 +36,44 @@ float: left;
 }
 
 figure{
-width: 300px;
+width: 500px;
+text-align: center;
+float: center;
+ 
+}
+
+.row2{
+font-family: Arial;
+font-size: 22px;
+color: #E8E9DB; 
+background-color: black;
+width: 585px;
+padding: 20px;
+border: 10px solid white;
+margin: 20px;
+float: right;
+}
+
+figure{
+width: 500px;
+text-align: center;
+float: center;
+ 
+}
+.row3{
+font-family: Arial;
+font-size: 22px;
+color: #E8E9DB; 
+background-color: black;
+width: 585px;
+padding: 20px;
+border: 10px solid white;
+margin: 20px;
+float: left;
+}
+
+figure{
+width: 500px;
 text-align: center;
 float: center;
  
