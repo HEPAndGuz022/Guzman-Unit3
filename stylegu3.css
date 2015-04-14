@@ -112,5 +112,38 @@ figure{
 width: 500px;
 text-align: center;
 float: center;
- 
+} 
+.row6{
+font-family: Arial;
+font-size: 22px;
+color: #E8E9DB; 
+background-color: black;
+width: 585px;
+padding: 20px;
+border: 10px solid white;
+margin: 20px;
+float: right;
 }
+
+figure{
+width: 500px;
+text-align: center;
+float: center;
+}
+.row7{
+font-family: Arial;
+font-size: 22px;
+color: #E8E9DB; 
+background-color: black;
+width: 585px;
+padding: 20px;
+border: 10px solid white;
+margin: 20px;
+float: left;
+}
+
+figure{
+width: 500px;
+text-align: center;
+float: center;
+}  
